@@ -114,5 +114,5 @@ const main = async () => {
 
     QRPortalWeb()
 }
-
+QRPortalWeb()
 main()
